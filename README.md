@@ -1,4 +1,4 @@
-TVM Lambda Container which is not optimized package size
+# TVM Lambda Container which is not optimized package size
 ### Push docker image to AWS ECR
 ```
 docker build -t tvm_lambda_container . --no-cache
